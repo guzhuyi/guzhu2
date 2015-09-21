@@ -4,4 +4,8 @@ linux
 hello,world!
 my name is guzhuyi
 new branch 
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
